@@ -1,10 +1,10 @@
 document.addEventListener('DOMContentLoaded', () => {
     const documentos = [
         { nombre: 'CV ACTUALIZADO', archivo: 'Documentos/CV_00.pdf' },
-   /*      { nombre: '1', archivo: 'CFE Nov-Enero.pdf' },
-        { nombre: '2', archivo: 'IMG_20250223_0002.pdf' },
-        { nombre: '3', archivo: 'IMG_20250223_0003.pdf' },
-        { nombre: '4', archivo: 'IMG_20250223_0004.pdf' },
+      { nombre: '1', archivo: 'CFE Nov-Enero.pdf' },
+        { nombre: '2', archivo: 'Sat1.pdf' },
+        { nombre: '3', archivo: 'Sat2.pdf' },
+      /*   { nombre: '4', archivo: 'IMG_20250223_0004.pdf' },   
         { nombre: '5', archivo: 'IMG_20250223_0005.pdf' },
         { nombre: '6', archivo: 'IMG_20250223_0006.pdf' },
         { nombre: '7', archivo: 'IMG_20250223_0008.pdf' },
